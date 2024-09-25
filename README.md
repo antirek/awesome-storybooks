@@ -4,4 +4,6 @@
 
 - [Admiral](https://admiralds.github.io/react-ui/)
 
-- 
+- [Megafon](https://ui.megafon.ru/components/)
+
+
